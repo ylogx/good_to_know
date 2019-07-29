@@ -26,3 +26,7 @@
 **Development**
 
 - [**rxmarbles**](https://rxmarbles.com/), Interactive diagrams of Rx Observables
+
+**Blogs**
+
+- [**sparkbox**](https://seesparkbox.com/foundry/semantic_commit_messages), Semantic Commit Messages
