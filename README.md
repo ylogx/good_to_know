@@ -26,6 +26,7 @@
 **Development**
 
 - [**rxmarbles**](https://rxmarbles.com/), Interactive diagrams of Rx Observables
+- [**ETags**](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching), Validating cached responses with ETags
 
 **Blogs**
 
