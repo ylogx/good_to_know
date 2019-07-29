@@ -9,7 +9,7 @@
 - **tldr**, readable man pages
 - **zsh**, bash alternative
 - **oh-my-zsh**, zsh customization framework
-- **autosuggestions**, autocomplete for zsh
+- [**autosuggestions**](https://github.com/zsh-users/zsh-autosuggestions), autocomplete for zsh
 - **dotfiles**, manage configuration files
 - **pure**, shell prompt
 - **tmux**, manage multiple terminal sessions
