@@ -17,6 +17,8 @@
 **IDE**
 
 - **CodeRunner**, lightweight, multi-language programming editor for macOS
+- [**Atom**](https://atom.io/), A hackable text editor
+- [**VS Code**](https://code.visualstudio.com/), Code editing. Redefined.
 
 **Misc**
 
